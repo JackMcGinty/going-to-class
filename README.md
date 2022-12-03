@@ -14,8 +14,6 @@ Because this is a Unity project that I have not published, it isn't really possi
 | space bar | jump (release to stop rising). |
 | left mouse button | attack. |
 
-{Describe your purpose for writing this software.}
-
 Aside from the fun of giving a picture of myself the power to send cars flying through the air, I wrote this because I wanted to learn more about the Unity Game Engine. Unity is a very powerful tool, but it is no good if you don't know how to use it. The only effective way to learn how to use it is to practice, so I took this oppurtunity to boost my Unity skills.
 
 Here's a video of me playing the game (and discussing the code):  
